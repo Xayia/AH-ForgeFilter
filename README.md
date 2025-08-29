@@ -1,4 +1,4 @@
-# ForgeFilter - Auction House Filter for Titanforged Items
+# ForgeFilter - Auction House Filter for Forged Items
 
 A lightweight addon that helps you quickly find and filter Titanforged, Warforged, and other special items in the Auction House for World of Warcraft 3.3.5a.
 
