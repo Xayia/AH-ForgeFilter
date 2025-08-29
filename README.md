@@ -50,4 +50,4 @@ Access the options by typing `/ff` or through the standard Interface Options pan
 - It will not find any special items on a standard WotLK server as these mechanics were not part of the original game.
 
 ## Credits
-Created for the WoW 3.3.5a community. Special thanks to all testers and contributors.
+- Addon by Xayia. Designed to be simple, reliable and configurable filtering forged and/or mythic items.
