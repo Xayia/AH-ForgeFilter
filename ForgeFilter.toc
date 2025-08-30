@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: Forge Filter [Xayia]
+## Title: Forge Filter |cffff5555[Xayia]|r
 ## Notes: Filters auction house items by forge type (Titanforged, Warforged, Lightforged, Mythic)
 ## Author: Xayia
 ## Version: 1.0.2
